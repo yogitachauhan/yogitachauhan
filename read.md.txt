@@ -1,3 +1,6 @@
 Thins is pre demo file editing
 This is the second line
 This is test for the third commit
+
+Everyone completed session first of GIT 
+This is final
